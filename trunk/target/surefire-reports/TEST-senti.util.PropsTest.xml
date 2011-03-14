@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.013" errors="0" skipped="0" tests="1" name="senti.util.PropsTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre6\bin"/>
+    <property name="java.vm.version" value="17.0-b17"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\workspace\SentiClassify"/>
+    <property name="java.runtime.version" value="1.6.0_21-b07"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="D:\workspace\SentiClassify"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre6\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="D:\workspace\SentiClassify\target\surefire\surefirebooter2432524619980615213.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\Zitao\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jre6\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\MiKTeX 2.8\miktex\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\MySQL\MySQL Server 5.1\bin;C:\Program Files\Java\jdk1.6.0_21\bin;C:\Program Files\MATLAB\R2010a\runtime\win64;C:\Program Files\MATLAB\R2010a\bin;C:\Python27;C:\Program Files\OpenAFS\Common;C:\Program Files\OpenAFS\Client\Program;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\TortoiseSVN\bin;C:\Program Files\TortoiseSVN\bin;c:\Program Files (x86)\Common Files\Ulead Systems\MPEG;D:\download;D:\maven-3.0.3\bin;C:\Python27;C:\Ruby192\bin;D:\download\qt-everywhere-opensource-src-4.7.1\bin;C:\Program Files\Weka-3-7;C:\Program Files (x86)\Indri\Indri 5.0\bin;"/>
+    <property name="surefire.test.class.path" value="D:\workspace\SentiClassify\target\test-classes;D:\workspace\SentiClassify\target\classes;C:\Users\Zitao\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\Zitao\.m2\repository\org\apache\opennlp\opennlp-tools\1.5.2-incubating-SNAPSHOT\opennlp-tools-1.5.2-incubating-SNAPSHOT.jar;C:\Users\Zitao\.m2\repository\org\apache\opennlp\opennlp-maxent\3.0.2-incubating-SNAPSHOT\opennlp-maxent-3.0.2-incubating-SNAPSHOT.jar;C:\Users\Zitao\.m2\repository\jwnl\jwnl\1.3.3\jwnl-1.3.3.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\Zitao"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Zitao"/>
+    <property name="java.class.path" value="D:\workspace\SentiClassify\target\test-classes;D:\workspace\SentiClassify\target\classes;C:\Users\Zitao\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\Zitao\.m2\repository\org\apache\opennlp\opennlp-tools\1.5.2-incubating-SNAPSHOT\opennlp-tools-1.5.2-incubating-SNAPSHOT.jar;C:\Users\Zitao\.m2\repository\org\apache\opennlp\opennlp-maxent\3.0.2-incubating-SNAPSHOT\opennlp-maxent-3.0.2-incubating-SNAPSHOT.jar;C:\Users\Zitao\.m2\repository\jwnl\jwnl\1.3.3\jwnl-1.3.3.jar;"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jre6"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.6.0_21"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre6\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\sunrsasign.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="localRepository" value="C:\Users\Zitao\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase time="0.003" classname="senti.util.PropsTest" name="testGetProperty"/>
+</testsuite>
